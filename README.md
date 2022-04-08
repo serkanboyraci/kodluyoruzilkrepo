@@ -23,4 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Patika
 [Patika](https://app.patika.dev)
+
+
 ![Patika](https://images.app.goo.gl/k24zoMduAoyUWS7T9)
