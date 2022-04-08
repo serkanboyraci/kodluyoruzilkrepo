@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [Patika](https://app.patika.dev)
 
 
-![Patika](https://mobile.twitter.com/patika_dev/photo)
+![Patika](https://nitter.pussthecat.org/pic/pbs.twimg.com%2Fprofile_images%2F1360317534172569614%2Fsdir3Sab.jpg)
