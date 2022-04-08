@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [Patika](https://app.patika.dev)
 
 
-![Patika](https://images.app.goo.gl/k24zoMduAoyUWS7T9)
+![Patika](https://images.app.goo.gl/pkh1GkKPSN2AaKM66)
